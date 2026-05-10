@@ -44,7 +44,7 @@ Currently pursuing a BA in Geography while developing skills in backend developm
 
 ## 📊 GitHub Stats
 
-![Narendra's GitHub stats](https://github-readme-stats.vercel.app/api?username=Narendra-Kumar-2060&show_icons=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Narendra-Kumar-2060&theme=tokyonight)
 
 ---
 
