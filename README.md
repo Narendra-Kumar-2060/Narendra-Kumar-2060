@@ -1,15 +1,59 @@
-# 💫 About Me:
-## About Me<br><br>Self-taught Python developer. I built 6 real projects — chat apps, games, data pipelines — to learn programming. Currently studying BA Geography and looking for an internship.<br><br>**Skills:** Python, SQLite, Git, OOP, APIs, File I/O<br><br>**Currently learning:** HTML, CSS, Flask
+# Hi, I'm Narendra 👋
 
+### Self-Taught Python Developer
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/narendra-kumar-b6ab66407) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:narendra.kumar.707033@gmail.com) 
+I build projects to learn by doing.  
+Currently pursuing a BA in Geography while developing skills in backend development, automation, and software engineering.
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Narendra-Kumar-2060&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Narendra-Kumar-2060&theme=vision-friendly-dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Narendra-Kumar-2060&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+- 🐍 Learning Python through real-world projects
+- 🛠 Built chat apps, games, automation tools, and data projects
+- 🌱 Currently learning Flask, HTML, and CSS
+- 🎯 Looking for internship opportunities and collaborative projects
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+
+## 🧠 Skills
+
+### Languages & Tools
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![API](https://img.shields.io/badge/APIs-005571?style=for-the-badge)
+![OOP](https://img.shields.io/badge/OOP-FF6F00?style=for-the-badge)
+![File I/O](https://img.shields.io/badge/File_IO-4CAF50?style=for-the-badge)
+
+### Currently Learning
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+
+---
+
+## 🚀 Projects
+
+| Project | Description |
+|---------|-------------|
+| [Car Battle Arena](https://github.com/Narendra-Kumar-2060/car-battle-arena) | Pokémon-inspired terminal game with AI opponents, garage system, and save/load mechanics |
+| [Python Chat App](https://github.com/Narendra-Kumar-2060/python-chat-app) | Multi-client chat application using sockets and threading |
+| [Weather Data Pipeline](https://github.com/Narendra-Kumar-2060/weather-data-scraper) | Weather API integration with SQLite storage and interactive data visualization |
+| [Expense Tracker CLI](https://github.com/Narendra-Kumar-2060/expense-tracker-cli) | Command-line expense tracker with SQLite database support |
+| [Simple Note Manager](https://github.com/Narendra-Kumar-2060/simple-note-manager) | CRUD-based note management system using File I/O |
+| [PyModEx](https://github.com/Narendra-Kumar-2060/pymodex) | Python module explorer with keyword search and introspection features |
+
+---
+
+## 📊 GitHub Stats
+
+![Narendra's GitHub stats](https://github-readme-stats.vercel.app/api?username=Narendra-Kumar-2060&show_icons=true)
+
+---
+
+## 📫 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/narendra-kumar-b6ab66407)
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Narendra-Kumar-2060)
+
+---
+
+⭐ Always learning, building, and improving.
