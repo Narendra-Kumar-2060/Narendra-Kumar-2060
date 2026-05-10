@@ -41,12 +41,6 @@ Currently pursuing a BA in Geography while developing skills in backend developm
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Narendra-Kumar-2060&theme=tokyonight)
-
----
-
 ## 📫 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/narendra-kumar-b6ab66407)
