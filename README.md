@@ -38,7 +38,6 @@ Currently pursuing a BA in Geography while developing skills in backend developm
 | [Weather Data Pipeline](https://github.com/Narendra-Kumar-2060/weather-data-scraper) | Weather API integration with SQLite storage and interactive data visualization |
 | [Expense Tracker CLI](https://github.com/Narendra-Kumar-2060/expense-tracker-cli) | Command-line expense tracker with SQLite database support |
 | [Simple Note Manager](https://github.com/Narendra-Kumar-2060/simple-note-manager) | CRUD-based note management system using File I/O |
-| [PyModEx](https://github.com/Narendra-Kumar-2060/pymodex) | Python module explorer with keyword search and introspection features |
 
 ---
 
