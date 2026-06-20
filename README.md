@@ -41,6 +41,7 @@ Currently pursuing a BA in Geography while developing skills in backend developm
 | [Expense Tracker CLI](https://github.com/Narendra-Kumar-2060/expense-tracker-cli)        | Command-line expense tracker with SQLite database support                                |
 | [Simple Note Manager](https://github.com/Narendra-Kumar-2060/simple-note-manager)        | CRUD-based note management system using File I/O                                         |
 | [Expense Tracker Web App](https://github.com/Narendra-Kumar-2060/expense-tracker-webapp) | Full-stack Flask web app with SQLite, HTML/CSS, and summary dashboard                    |
+| [Relay Chat (FastAPI)](https://github.com/Narendra-Kumar-2060/relay-chat)                | Full-stack chat app with authentication, password hashing, and message CRUD              |
 
 ---
 
